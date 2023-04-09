@@ -1,0 +1,14 @@
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Abstract_Factory_Pattern\Abstract_Factory_Pattern\bin\Debug\netcoreapp3.1\Abstract_Factory_Pattern.exe
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Abstract_Factory_Pattern\Abstract_Factory_Pattern\bin\Debug\netcoreapp3.1\Abstract_Factory_Pattern.deps.json
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Abstract_Factory_Pattern\Abstract_Factory_Pattern\bin\Debug\netcoreapp3.1\Abstract_Factory_Pattern.runtimeconfig.json
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Abstract_Factory_Pattern\Abstract_Factory_Pattern\bin\Debug\netcoreapp3.1\Abstract_Factory_Pattern.runtimeconfig.dev.json
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Abstract_Factory_Pattern\Abstract_Factory_Pattern\bin\Debug\netcoreapp3.1\Abstract_Factory_Pattern.dll
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Abstract_Factory_Pattern\Abstract_Factory_Pattern\bin\Debug\netcoreapp3.1\Abstract_Factory_Pattern.pdb
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Abstract_Factory_Pattern\Abstract_Factory_Pattern\obj\Debug\netcoreapp3.1\Abstract_Factory_Pattern.csproj.AssemblyReference.cache
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Abstract_Factory_Pattern\Abstract_Factory_Pattern\obj\Debug\netcoreapp3.1\Abstract_Factory_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Abstract_Factory_Pattern\Abstract_Factory_Pattern\obj\Debug\netcoreapp3.1\Abstract_Factory_Pattern.AssemblyInfoInputs.cache
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Abstract_Factory_Pattern\Abstract_Factory_Pattern\obj\Debug\netcoreapp3.1\Abstract_Factory_Pattern.AssemblyInfo.cs
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Abstract_Factory_Pattern\Abstract_Factory_Pattern\obj\Debug\netcoreapp3.1\Abstract_Factory_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Abstract_Factory_Pattern\Abstract_Factory_Pattern\obj\Debug\netcoreapp3.1\Abstract_Factory_Pattern.dll
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Abstract_Factory_Pattern\Abstract_Factory_Pattern\obj\Debug\netcoreapp3.1\Abstract_Factory_Pattern.pdb
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Abstract_Factory_Pattern\Abstract_Factory_Pattern\obj\Debug\netcoreapp3.1\Abstract_Factory_Pattern.genruntimeconfig.cache

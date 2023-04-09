@@ -1,0 +1,14 @@
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.exe
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.deps.json
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.runtimeconfig.json
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.runtimeconfig.dev.json
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.dll
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Singleton_Pattern\Singleton_Pattern\bin\Debug\netcoreapp3.1\Singleton_Pattern.pdb
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.csproj.AssemblyReference.cache
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.AssemblyInfoInputs.cache
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.AssemblyInfo.cs
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.dll
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.pdb
+C:\Users\NM\Desktop\8th Semester\DP by Sir Zubair\DP C#\Singleton_Pattern\Singleton_Pattern\obj\Debug\netcoreapp3.1\Singleton_Pattern.genruntimeconfig.cache
